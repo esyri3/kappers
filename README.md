@@ -55,7 +55,7 @@
   <section>
     <h2>Over mij</h2>
     <p>Met passie en precisie zorg ik dat jij altijd met de perfecte look de deur uitgaat. Ervaar de kwaliteit van persoonlijke service in een moderne sfeer.</p>
-    <p>Mijn specialiteit is strakke overgangen, scherpe lijnen en verzorgde baarden. Iedereen is welkom – jong en oud, man of vrouw. Jij bepaalt de stijl, ik zorg dat het perfect wordt uitgevoerd.</p>
+    <p>Mijn  Iedereen is welkom – jong en oud. Jij bepaalt de stijl, ik zorg dat het perfect wordt uitgevoerd.</p>
   </section>
 
   <section>
